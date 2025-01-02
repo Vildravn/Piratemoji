@@ -1,6 +1,6 @@
 # Piratemoji
 
-
+For a list of all the emoji with a preview, check [index.md](index.md).
 
 ## License
 
