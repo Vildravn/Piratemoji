@@ -2,8 +2,8 @@
 <svg
    viewBox="0 0 45 45"
    version="1.1"
-   id="svg3"
-   sodipodi:docname="sunglasses.svg"
+   id="svg5"
+   sodipodi:docname="innocent.svg"
    width="45"
    height="45"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
@@ -15,7 +15,7 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
-     id="defs3">
+     id="defs5">
     <clipPath
        id="clipPath16-2"
        clipPathUnits="userSpaceOnUse">
@@ -26,7 +26,7 @@
     </clipPath>
   </defs>
   <sodipodi:namedview
-     id="namedview3"
+     id="namedview5"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -35,33 +35,76 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="8.1710117"
-     inkscape:cx="14.441296"
-     inkscape:cy="26.802067"
+     inkscape:cx="18.174004"
+     inkscape:cy="19.336651"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3" />
-  <path
+     inkscape:current-layer="svg5" />
+  <circle
      fill="#ffcc4d"
-     d="m 40.5,27 c 0,9.941 -8.059,18 -18,18 -9.941,0 -18,-8.059 -18,-18 0,-9.941 8.059,-18 18,-18 9.941,0 18,8.059 18,18"
-     id="path1" />
-  <path
-     fill-rule="evenodd"
-     clip-rule="evenodd"
-     fill="#292f33"
-     d="m 5.74,20.018 c 0.24,0.239 1.438,0.957 1.677,1.675 0.24,0.717 0.72,4.784 2.158,5.981 1.483,1.232 7.077,0.774 8.148,0.24 2.397,-1.195 2.691,-4.531 3.115,-6.221 0.239,-0.957 1.677,-0.957 1.677,-0.957 0,0 1.438,0 1.678,0.956 0.424,1.691 0.72,5.027 3.115,6.221 1.072,0.535 6.666,0.994 8.151,-0.238 1.436,-1.197 1.915,-5.264 2.155,-5.982 0.238,-0.717 1.438,-1.435 1.677,-1.674 0.241,-0.239 0.241,-1.196 0,-1.436 -0.479,-0.478 -6.134,-0.904 -12.223,-0.239 -1.215,0.133 -1.677,0.478 -4.554,0.478 -2.875,0 -3.339,-0.346 -4.553,-0.478 -6.085,-0.666 -11.741,-0.24 -12.221,0.238 -0.239,0.239 -0.239,1.197 0,1.436 z"
-     id="path2"
-     style="fill:#414042;fill-opacity:1" />
+     cx="22.5"
+     cy="27"
+     r="18"
+     id="circle1"
+     style="display:inline" />
   <path
      fill="#664500"
-     d="M 31.835,32.629 C 31.657,32.468 31.391,32.458 31.2,32.6 c -0.039,0.029 -3.922,2.9 -8.7,2.9 -4.766,0 -8.662,-2.871 -8.7,-2.9 -0.191,-0.142 -0.457,-0.13 -0.635,0.029 -0.177,0.16 -0.217,0.424 -0.094,0.628 0.129,0.215 3.217,5.243 9.429,5.243 6.212,0 9.301,-5.028 9.429,-5.243 0.123,-0.205 0.084,-0.468 -0.094,-0.628 z"
-     id="path3" />
+     d="M 31.835,31.629 C 31.657,31.468 31.391,31.458 31.2,31.6 c -0.039,0.029 -3.922,2.9 -8.7,2.9 -4.766,0 -8.662,-2.871 -8.7,-2.9 -0.191,-0.142 -0.457,-0.13 -0.635,0.029 -0.177,0.16 -0.217,0.424 -0.094,0.628 0.129,0.215 3.217,5.243 9.429,5.243 6.212,0 9.301,-5.028 9.429,-5.243 0.123,-0.205 0.084,-0.468 -0.094,-0.628 z M 20.5,28 C 20.081,28 19.691,27.735 19.551,27.316 19.348,26.717 18.534,25 17.5,25 c -1.062,0 -1.888,1.827 -2.051,2.316 -0.175,0.523 -0.738,0.808 -1.265,0.632 C 13.66,27.774 13.377,27.208 13.552,26.683 13.677,26.307 14.855,23 17.5,23 c 2.645,0 3.823,3.307 3.949,3.684 0.175,0.524 -0.108,1.091 -0.632,1.265 C 20.711,27.983 20.604,28 20.5,28 Z"
+     id="path1"
+     style="display:inline"
+     sodipodi:nodetypes="csscccsccscscccsccs" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Twemoji contributors, alleZSoyez, Vildravn</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
   <g
      id="g2"
      style="display:inline"
      transform="translate(-0.0497529,-0.06644351)">
+    <g
+       transform="matrix(0.86969697,0,0,0.86969697,2.9815705,5.6176337)"
+       id="g4297"
+       style="display:inline">
+      <path
+         style="fill:#292f33;fill-opacity:1;stroke:none;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 43.082908,22.623343 c -14.86455,0.425182 -24.73059,-6.049113 -39.2075364,-7.207904 0.1848275,-0.533355 0.9083791,-2.070123 1.487831,-2.651192 13.0892174,0.946575 22.6596784,4.779499 37.2987724,7.316692 0.439948,0.985949 0.434328,2.466434 0.420933,2.542404 z"
+         id="path4221-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#292f33;fill-opacity:1;stroke:none;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 36.257974,23.051701 c -0.579481,2.493397 -2.838995,4.544303 -7.326741,4.26545 -4.487746,-0.278853 -6.174736,-4.785084 -5.567235,-7.399042 0.594872,-2.559622 -0.478694,-5.002185 7.624287,-2.498948 8.10298,2.503238 6.034242,2.478675 5.269689,5.63254 z"
+         id="path4221-3-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="czszc" />
+    </g>
     <g
        id="g4393"
        transform="translate(-0.25,0.08838834)"
@@ -165,32 +208,13 @@
       </g>
     </g>
   </g>
-  <metadata
-     id="metadata1">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:contributor>
-          <cc:Agent>
-            <dc:title>Twemoji contributors, alleZSoyez, Vildravn</dc:title>
-          </cc:Agent>
-        </dc:contributor>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/by/4.0/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires
-           rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
+  <path
+     fill="#5dadec"
+     d="M 28.277,0.236 C 27.065,0.142 25.804,0.077 24.504,0.046 23.843,0.03 23.176,0.02 22.5,0.02 21.828,0.02 21.164,0.03 20.507,0.045 19.205,0.076 17.943,0.141 16.73,0.235 9.84,0.771 4.669,2.342 4.669,5.178 c 0,3.588 8.264,5.771 17.831,5.771 9.567,0 17.831,-2.183 17.831,-5.771 0,-2.835 -5.168,-4.405 -12.054,-4.942 z M 22.5,7.274 C 15.639,7.274 9.59,6.441 9.59,4.538 9.59,4.002 10.084,3.515 10.929,3.089 12.082,2.508 13.907,2.045 16.118,1.74 18.029,1.478 20.216,1.33 22.5,1.33 c 2.291,0 4.485,0.148 6.4,0.413 2.242,0.31 4.086,0.783 5.232,1.377 0.807,0.418 1.278,0.894 1.278,1.418 0,1.903 -6.049,2.736 -12.91,2.736 z"
+     id="path3"
+     style="display:inline" />
+  <path
+     id="path6"
+     style="display:inline;fill:#ccd6dd;stroke-width:1.6;stroke-linejoin:bevel"
+     d="M 22.5 0 C 20.721326 0 19.341952 0.62069435 18.132812 1.515625 L 26.867188 1.515625 C 25.668204 0.61818361 24.289285 3.1574558e-16 22.5 0 z " />
 </svg>
